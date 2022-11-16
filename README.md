@@ -18,6 +18,7 @@
   <img style='width:45px;margin:15px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img style='width:45px;margin:15px;margin-left:50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img style='width:45px;margin:15px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img style='width:45px;margin:15px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
   </div>
 
