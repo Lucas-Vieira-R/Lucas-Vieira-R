@@ -7,7 +7,7 @@
 - 😄 Pronomes: Ele/Dele
 - :closed_book: Linguagens mais usadas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimCarey08&layout=compact)](https://github.com/JimCarey08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Vieira-R&layout=compact)](https://github.com/Lucas-Vieira-R/github-readme-stats)
 - :video_game: Gosto, e estou sempre fazendo, desafios no Frontend Mentor... Os repositórios estão nesse perfil.
 - :books: algumas das minhas habilidades, tecnologias e ferramentas:
 <div style = 'display:flex'>
