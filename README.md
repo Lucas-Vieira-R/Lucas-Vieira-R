@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lucas! 👋
 
 
-- 🌱 Tenho estudado FrontEnd no geral, e no momento Javascript e DOM
+- 🌱 Tenho estudado FrontEnd no geral, e no momento React
 - 🤔 Procuro ajuda com mentoria de carreira (alô mentores)
 - 📫 Meu LinkedIn: https://www.linkedin.com/in/lucas-vieira-r/
 - 😄 Pronomes: Ele/Dele
