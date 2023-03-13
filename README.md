@@ -5,7 +5,10 @@
 - 😄 Pronomes: Ele/Dele
 - :closed_book: Linguagens mais usadas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Vieira-R&layout=compact)](https://github.com/Lucas-Vieira-R/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Vieira-R&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - :books: algumas das minhas habilidades, tecnologias e ferramentas:
 <div style = 'display:flex'>
   <img style='width:45px;margin:15px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
