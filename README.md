@@ -2,7 +2,6 @@
 
 
 - 📫 Meu LinkedIn: https://www.linkedin.com/in/lucas-vieira-r/
-- 😄 Pronomes: Ele/Dele
 - :closed_book: Linguagens mais usadas:
 
 
