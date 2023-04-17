@@ -9,9 +9,10 @@
 
 
 - :books: algumas das minhas habilidades, tecnologias e ferramentas:
+
 <div style = 'display:flex'>
   <img style='width:45px;margin:15px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img  style='width:45px;margin:15px; color:white;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img  style='width:45px;margin:15px;background-color:white !important;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img style='width:45px;margin:15px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img style='width:45px;margin:15px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img style='width:45px;margin:15px;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
